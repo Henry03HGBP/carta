@@ -21,7 +21,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    height: 100vh;
+    height: 80vh;
 }
 
 .titulo {
@@ -35,7 +35,7 @@ body {
 h2 {
    font-family: "Marck Script", serif; 
    position: relative;
-   font-size: 5em;
+   font-size: 2em;
    letter-spacing: 15px;
    width: 100%;
    text-align: center;
