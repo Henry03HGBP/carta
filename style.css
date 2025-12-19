@@ -27,7 +27,6 @@ body {
 .titulo {
    display: flex;
    justify-content: center;
-  
    align-items: center;
    background: #07252d;
 }
@@ -35,7 +34,7 @@ body {
 h2 {
    font-family: "Marck Script", serif; 
    position: relative;
-   font-size: 6em;
+   font-size: 1em;
    letter-spacing: 15px;
    width: 100%;
    text-align: center;
